@@ -1,0 +1,14 @@
+D:\Arduino\Projekty\Update_NET8\Update_NET8\bin\Debug\net8.0-windows\Update_NET8.exe
+D:\Arduino\Projekty\Update_NET8\Update_NET8\bin\Debug\net8.0-windows\Update_NET8.deps.json
+D:\Arduino\Projekty\Update_NET8\Update_NET8\bin\Debug\net8.0-windows\Update_NET8.runtimeconfig.json
+D:\Arduino\Projekty\Update_NET8\Update_NET8\bin\Debug\net8.0-windows\Update_NET8.dll
+D:\Arduino\Projekty\Update_NET8\Update_NET8\bin\Debug\net8.0-windows\Update_NET8.pdb
+D:\Arduino\Projekty\Update_NET8\Update_NET8\obj\Debug\net8.0-windows\Update_NET8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arduino\Projekty\Update_NET8\Update_NET8\obj\Debug\net8.0-windows\Update_NET8.AssemblyInfoInputs.cache
+D:\Arduino\Projekty\Update_NET8\Update_NET8\obj\Debug\net8.0-windows\Update_NET8.AssemblyInfo.cs
+D:\Arduino\Projekty\Update_NET8\Update_NET8\obj\Debug\net8.0-windows\Update_NET8.csproj.CoreCompileInputs.cache
+D:\Arduino\Projekty\Update_NET8\Update_NET8\obj\Debug\net8.0-windows\Update_NET8.dll
+D:\Arduino\Projekty\Update_NET8\Update_NET8\obj\Debug\net8.0-windows\refint\Update_NET8.dll
+D:\Arduino\Projekty\Update_NET8\Update_NET8\obj\Debug\net8.0-windows\Update_NET8.pdb
+D:\Arduino\Projekty\Update_NET8\Update_NET8\obj\Debug\net8.0-windows\Update_NET8.genruntimeconfig.cache
+D:\Arduino\Projekty\Update_NET8\Update_NET8\obj\Debug\net8.0-windows\ref\Update_NET8.dll
